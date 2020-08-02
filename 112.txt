@@ -1,3 +1,9 @@
 aasasa
 
+<<<<<<< HEAD
 2222
+=======
+no non no!!
+
+asdasdw
+>>>>>>> Vetka1
